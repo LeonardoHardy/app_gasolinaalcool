@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppGasolinaalcool</string>
+    <item name="colorPrimary" type="color">@color/colorPrimary</item>
+    <item name="colorPrimaryDark" type="color">@color/colorPrimary</item>
+
+</resources>
